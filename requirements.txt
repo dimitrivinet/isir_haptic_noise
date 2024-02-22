@@ -1,0 +1,4 @@
+matplotlib
+numpy
+tqdm
+numpy-stl
